@@ -115,8 +115,6 @@ Each video object includes:
   "dislikes": 10
 }
 
---------------------------------------------------
-
 🎯 Key Technical Concepts
 Bootstrap Grid & Utilities for layout
 
@@ -130,8 +128,6 @@ Event Handling for like, comment, subscribe actions
 
 Local Storage to persist theme preference
 
---------------------------------------------------------
-
 🚀 Performance & Optimization
 Lazy loading (skeleton screens)
 
@@ -140,8 +136,6 @@ Responsive images (from Pexels)
 Optimized component re-rendering
 
 CSS animations for smooth transitions
-
-------------------------------------------------
 
 🔧 Development Tools
 Vite - Lightning fast build/dev server
@@ -152,8 +146,6 @@ React DevTools - Debugging components
 
 Browser DevTools - Mobile view and performance checks
 
-----------------------------------------------------------
-
 📈 Scalability & Extensibility
 Modular file structure
 
@@ -162,7 +154,6 @@ Easy to integrate with real APIs
 Reusable component-based architecture
 
 Scalable routing and context setup
---------------------------------------------------------------
 
 📱 Cross-Browser Compatibility
 ✅ Chrome, Firefox, Edge, Safari (Desktop)
@@ -176,12 +167,11 @@ cd youtube-clone
 npm install
 npm run dev
 
------------------------------------------------------------------------
-
 
 📜 License
 This project is open-source and available for educational or personal use.
 
 
 Built with ❤️ by Monish during Incture Training
+
 
