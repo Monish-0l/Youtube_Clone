@@ -115,63 +115,57 @@ Each video object includes:
   "dislikes": 10
 }
 
-🎯 Key Technical Concepts
-Bootstrap Grid & Utilities for layout
+## 🎯 Key Technical Concepts
 
-React Context API for theme management
+- **Bootstrap Grid & Utilities** for layout  
+- **React Context API** for theme management  
+- **Dynamic Routing** with `useParams` and `useNavigate`  
+- **Prop Drilling** and **State Lifting** for component communication  
+- **Event Handling** for like, comment, and subscribe actions  
+- **Local Storage** to persist theme preference  
 
-Dynamic Routing with useParams and useNavigate
+---
 
-Prop Drilling and State Lifting for component communication
+## 🚀 Performance & Optimization
 
-Event Handling for like, comment, subscribe actions
+- Lazy loading (skeleton screens)  
+- Responsive images (from Pexels)  
+- Optimized component re-rendering  
+- CSS animations for smooth transitions  
 
-Local Storage to persist theme preference
+---
 
-🚀 Performance & Optimization
-Lazy loading (skeleton screens)
+## 🔧 Development Tools
 
-Responsive images (from Pexels)
+- **Vite** – Lightning fast build/dev server  
+- **ESLint** – Linting and code style checks  
+- **React DevTools** – Debugging React components  
+- **Browser DevTools** – Responsive/mobile testing & debugging  
 
-Optimized component re-rendering
+---
 
-CSS animations for smooth transitions
+## 📈 Scalability & Extensibility
 
-🔧 Development Tools
-Vite - Lightning fast build/dev server
+- Modular file structure  
+- Easy to integrate with real APIs  
+- Reusable component-based architecture  
+- Scalable routing and context setup  
 
-ESLint - Linting and code style checks
+---
 
-React DevTools - Debugging components
+## 📱 Cross-Browser Compatibility
 
-Browser DevTools - Mobile view and performance checks
+- ✅ Chrome, Firefox, Edge, Safari (Desktop)  
+- ✅ Android Chrome, iOS Safari (Mobile)  
+- ✅ iPad and other tablets  
 
-📈 Scalability & Extensibility
-Modular file structure
+---
 
-Easy to integrate with real APIs
 
-Reusable component-based architecture
+## 🛠️ How to Run Locally
 
-Scalable routing and context setup
-
-📱 Cross-Browser Compatibility
-✅ Chrome, Firefox, Edge, Safari (Desktop)
-
-✅ Android Chrome, iOS Safari (Mobile)
-
-✅ iPad and other tablets
-
-git clone https://github.com/yourusername/youtube-clone.git
+```bash
+git clone https://github.com/Monish-0l/Youtube_Clone.git
 cd youtube-clone
 npm install
 npm run dev
-
-
-📜 License
-This project is open-source and available for educational or personal use.
-
-
-Built with ❤️ by Monish during Incture Training
-
-
