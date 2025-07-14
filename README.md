@@ -93,28 +93,6 @@ src/
 - `/search/:query` → Search Results
 
 ---
-
-## 📊 Video Data Structure
-
-Each video object includes:
-
-```json
-{
-  "id": "1",
-  "title": "Sample Video Title",
-  "channelName": "Channel Name",
-  "channelAvatar": "URL",
-  "thumbnail": "URL",
-  "views": "123K",
-  "uploadTime": "2 days ago",
-  "duration": "10:23",
-  "description": "Video description...",
-  "embedUrl": "https://www.youtube.com/embed/...",
-  "category": "Music",
-  "likes": 234,
-  "dislikes": 10
-}
-
 ## 🎯 Key Technical Concepts
 
 - **Bootstrap Grid & Utilities** for layout  
@@ -169,3 +147,5 @@ git clone https://github.com/Monish-0l/Youtube_Clone.git
 cd youtube-clone
 npm install
 npm run dev
+
+```
